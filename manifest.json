@@ -3,7 +3,7 @@
   "id": "agnibha.diskspace",
   "name": "Disk Space",
   "version": "1.0.0",
-  "author": "Local",
+  "author": "Nexus-Agni",
   "description": "Native disk space monitor with detailed popup",
   "kinds": [
     "bar-widget"
